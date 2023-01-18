@@ -14,8 +14,8 @@ Browse the internet to find a simple brochure website. A brochure website is a w
 * Use GitHub Desktop to clone your remote exercise repository onto your local machine.
 * In VS Code, add a file called index.html to your local repository. 
 * Open index.html and add the HTML skeleton code provided by VSCode.
-* Add a comment in the head section of the html code including: the course code, your section number, your student name, and the assignment letter. Example:
-`<!-- DGL 103 CVS1 - your name - Exercise 2 -->`
+* Add a comment in the head section of the html code including: the course code and your section number - your name - Exercise 2 - the URL of the website you chose for this exercise. Example:
+`<!-- DGL 103 CVS1 - your name - Exercise 2 - https://upnitlodge.ca -->`
 * Change the page title to something appropriate for the website that you chose.
 ### Step 3: Add the structural elements
 Code the structural organization of the content. You don't need to include all the structural elements but you should use at least 7 of them.
