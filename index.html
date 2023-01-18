@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upnit Lodge</title>
+</head>
+
+<body>
+  <header>
+    <a href="index.html"><img src="images/Upnit-Lodge.png" width="150"
+        alt="Upnit Lodge logo"></a><!-- Note that the width attribute is always in pixels so it doesn't require a unit. Adding a unit will produce an error when you validate the file.-->
+    <a href="https://us01.iqwebbook.com/HHCBC837/">Book now</a>
+    <!--
+    <a href="https://us01.iqwebbook.com/HHCBC837/"><button type="button">Book now</button></a>
+    Nesting a button inside an anchor element works but it isn't valid HTML, it will produce an error when the file is validated. It is best not to use the button element. In this context and semantically, the button is really just a link.
+    -->
+    <nav>
+      <ul>
+        <li><a href="bamfield.html">Bamfield</a></li>
+        <li><a href="the-lodge.html">The Lodge</a></li>
+        <li><a href="#">Rooms &amp; Rates</a><!--there is a special character in this list item-->
+          <ul><!--this is a nested list-->
+            <li><a href="rates.html">Rates</a></li>
+            <li><a href="rooms/4-singles.html">4 Singles</a></li>
+            <li><a href="rooms/1-queen-and-sauna.html">1 Queen and Sauna</a></li>
+            <li><a href="rooms/2-queens-and-common-area.html">2 Queens &amp; Common Area</a></li>
+            <li><a href="rooms/2-queens-and-kitchenette.html">2 Queens &amp; Kitchenette</a></li>
+            <li><a href="rooms/1-king.html">1 King</a></li>
+            <li><a href="rooms/2-bedroom-suite.html">2 Bedroom Suite</a></li>
+          </ul>
+        </li>
+        <li><a href="getting-here.html">Getting Here</a></li>
+        <li><a href="culture.html">Culture</a></li>
+        <li><a href="contact-html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h1>Bamfield Accommodation</h1>
+    </section>
+    <section>
+      <h2>Relax at Our Bamfield Lodge</h2>
+      <hr><!--This is a horizontal rule-->
+      <p>Welcome to Upnit Lodge, a stylish waterfront lodge located in Bamfield, BC. Soak up the sights during your
+        eco-tour adventures in style and comfort. Our waterfront accommodation provides easy access to all the amenities
+        you'll need for a relaxing and memorable stay on Vancouver Island's wild west coast!</p>
+    </section>
+    <section>
+      <h2>Our Rooms</h2>
+      <article>
+        <img src="images/4-singles.jpg" width="200" alt="4 Singles room">
+        <h3>4 singles</h3>
+        <p>Sleeps up to 4 people: One of the best decks available at the Lodge offers water views for wildlife watching
+          and enjoying the sunsets.</p>
+        <a href="rooms/4-singles/">View Room</a>
+      </article>
+      <!--The page includes 7 more rooms just like the article above-->
+    </section>
+    <section>
+      <img src="images/map.jpg" width="400" alt="Map of Vancouver Island showing location of Bamfield">
+      <h2>Plan Your Trip</h2>
+      <h3>How to Get Here</h3>
+      <strong>From Vancouver to the Lodge in under 40 min.</strong>
+      <p>Ready to escape? Fly from Vancouver in under 40 minutes. Spend the weekend fishing, whale watching, or touring
+        our pristine forests and beaches. Looking to drive, fly or shuttle in? We've got all the travel info you need to
+        plan your get-away.</p>
+      <p>Find out all the ways of <a href="getting-here.html">getting here</a>.</p>
+      <h3>Welcome to Bamfield, BC</h3>
+      <p>Bamfield is a small, charming hamlet settled in a sheltered inlet on Barkley Sound off the west coast of
+        Vancouver Island, BC. With the Pacific Coast rolling out from the inlet, and the <a
+          href="west-coast-trail-history.html">West Coast Trail in the Pacific Rim National Park</a> just steps away,
+        the area is known for its superb hiking, eco-tours and salmon fishing adventures.</p>
+      <p>Read more about <a href="bamfield.html">Bamfield</a>.</p>
+    </section>
+    <section>
+      <h2>The Lodge, Our History, and Culture</h2>
+      <p>The Huu-ay-aht Group of Businesses worked with the Huu-ay-aht citizens in naming Upnit Lodge, and the name
+        speaks to the culture of this modern, self-governing treaty Nation. The Huu-ay-aht's traditional territories of
+        land and water covers the Anacla region of West Coast Vancouver Island, between Bamfield and Port Alberni.</p>
+      <a href="culture.html">Learn about our culture</a>
+    </section>
+    <section>
+      <h2>Upnit Lodge is owned and operated by the <a href="https://hfngroup.ca/">Huu-ay-aht Group of Businesses</a>.
+        Visit some of our other local businesses while you are in town.</h2>
+      <!-- Even though this doesn't visually look like a heading,it should be one semantically -->
+      <img src="images/pachena-logo.png" width="150" alt="Pachena Bay Campground logo">
+      <img src="images/Malsit-Pub-logo.png" width="150" alt="Malsit Pub logo"><!-- you can't see this logo because it is white-->
+      <img src="images/Hacas-Inn-logo.png" width="150" alt="Hacas Inn logo"><!-- you can't see this logo because it is white-->
+      <h3>Gasbar, Store &amp; Moorage</h3><!-- Notice how this is not typed in all-caps. Always type all your content in sentence case. Change it to all-caps is styling effect.-->
+      <p>These amenities are all located conveniently next to Upnit Lodge.</p>
+      <a href="gasbar-store-moorage.html">Learn more</a>
+    </section>
+  </main>
+  <footer>
+    <section>
+      <h2>About Upnit Lodge</h2>
+      <p>Serving the picturesque Barkley Sound area for over 30 years, Upnit Lodge is fully renovated with modern
+        finishes and offers a variety of accommodation and services for every kind of traveller. Boat or floatplane right up to
+        our doors with our marina and moorage for guests. Amenities include private decks, BBQ grills, laundry facilities
+        and the nearby Malsit Public House and restaurant.</p>
+      <p><a href="west-coast-trail-history.html">Hiking the West Coast Trail?</a> Many people start or end their trip with a stay at Upnit Lodge. Contact us for details.</p>
+    </section>
+    <section>
+      <h2>Quick Links</h2>
+      <nav>
+        <ul>
+          <li><a href="rates.html">Rooms &amp; Rates</a></li>
+          <li><a href="getting-here.html">How to Get Here</a></li>
+          <li><a href="privacy-policy.html">Privacy Policy</a></li>
+        </ul>
+      </nav>
+    </section>
+    <section>
+      <h2>Contact Us</h2>
+      <address>
+        <!--The address element can include any relevant contact information. Also notice that I did not include the icons as they are decorative.-->
+        <a href="tel:250-728-3231">250-728-3231</a><!--Note the special href value to make this a working telephone link-->
+        <a href="mailto:Info@UpnitLodge.ca">Info@UpnitLodge.ca</a><!--Note the special href value to make this a working email link-->
+        211 Nuthatch Road<br><!--The break element produces a line break in text. Students often use this element too much. Don't use it to add visual negative space in between two groups of content. Only use it when the meaning of the content requires a line break. -->
+        Bamfield, British Columbia<br>
+        V0R 1B0, Canada
+      </address>
+      <p>Connect with us and other visitors <a href="https://www.facebook.com/profile.php?id=100041444785357">Huuayaht Group of Businesses</a></p>
+    </section>
+    <p>&copy; 2019 HFN Hospitality LP</p><!--Notice the special character-->
+  </footer>
+</body>
+
+</html>
