@@ -1,24 +1,23 @@
 # Exercise 2
 
 ## Objectives
-Choose a simple website and code the HTML for its homepage. You will use semantic HTML5 structural elements to create different groups of content. The content will include a variety of HTML content elements. When your exercise is finished, your webpage will look similar to a 
+Choose a simple website and code the HTML for its homepage. You will use semantic HTML5 structural elements to create different groups of content. The content will include a variety of HTML content elements. An example of this exercise is provided (see folder called "example-exercise"), the example is the homepage of https://upnitlodge.ca/.
 
 ## Instructions
 Remember to:
-* Look up how to do things in the Reference Guides.
-* Regularly save your files and check out what your web page looks like by opening index.html in a web browser.
+* Regularly save your files and check out what your web page looks like in a web browser.
 * Make regular commits.
-* Read through all the instructions below before you start the assignment.
-### Step 1: Chose a webpage
-Browse the internet to find a simple brochure website. A brochure website is a website that includes approx 5 pages (For ex: Homepage, About, Services, Locations and Contact). It's like an online brochure. It explains what the business offers and provides a way to get in touch. A brochure website does not include e-commerce, membership log in, or any other type of advanced functionality. I recommend you find a website whose homepage is similar in complexity to the homepage of upnitlodge.ca. Don't chose something too complicated.
-### Step 1: Create the webpage structure
+* Read through the code provided in the example.
+### Step 1: Choose a webpage
+Browse the internet to find a simple brochure website. A brochure website is a website that includes approx 5 pages (For ex: Homepage, About, Services, Locations and Contact). It's like an online brochure. It explains what the business offers and provides a way to get in touch. A brochure website does not include e-commerce, membership log in, or any other type of advanced functionality. I recommend you find a website whose homepage is no more complex than the homepage of upnitlodge.ca. Don't choose something too complicated.
+### Step 2: Create the webpage structure
 * Use GitHub Desktop to clone your remote exercise repository onto your local machine.
 * In VS Code, add a file called index.html to your local repository. 
 * Open index.html and add the HTML skeleton code provided by VSCode.
 * Add a comment in the head section of the html code including: the course code, your section number, your student name, and the assignment letter. Example:
 `<!-- DGL 103 CVS1 - your name - Exercise 2 -->`
 * Change the page title to something appropriate for the website that you chose.
-### Step 2: Add the structure elements
+### Step 3: Add the structural elements
 Code the structural organization of the content. You don't need to include all the structural elements but you should use at least 7 of them.
 1. Body 
 2. Header
@@ -28,33 +27,33 @@ Code the structural organization of the content. You don't need to include all t
 6. Article
 7. Aside
 8. Footer
-### Step 3: Add the content
+### Step 4: Add the content
 1. Copy and paste the content from your chosen website into your webpage.
-2. Save the images in an images folder. Don't bother with background images and decoratove images, only save editorial images. In the example, I didn't save the image behind the h1, nor the icons in the footer.
+2. Save the images in an images folder. Don't bother with background images and decorative images, only save editorial images. In the example, I didn't save the image behind the h1, nor the icons in the footer.
 3. Use the elements we have learnt about so far to organize the content:
-- Headings (H1 to H6)
-- Paragraph
-- Strong
-- Bold
-- Italic
-- Emphasis
-- Special Characters
-- Hyperlinks (including email links and same-page links)
-- Unordered lists
-- Ordered lists
-- Description lists
-- Image
-- Div and span (you shouldn't need these elements as they carry no semantic meaning and are only used to define areas to which you want to apply styling)
+    - Headings (H1 to H6)
+    - Paragraph
+    - Strong
+    - Bold
+    - Italic
+    - Emphasis
+    - Special Characters
+    - Hyperlinks (including email links and same-page links)
+    - Unordered lists
+    - Ordered lists
+    - Description lists
+    - Image
+    - Div and span (you shouldn't need these elements as they carry no semantic meaning and are only used to define areas to which you want to apply styling)
 
-Many more HTML elements exist. Use all the online resources available to you to research elements that make sense to use in your webpage. Add 3 or 4 of them. 
+Many more HTML elements exist than what we have learnt so far. Research elements that make sense to use in your webpage. Make sure you use 3 or 4 new elements. 
 
-### Step 4: Add comments 
-Add a few comments to explain your code, to point out any elements you have used that we haven't learned about in class, to ask questions or highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->`
+### Step 5: Add comments 
+Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->`
 
-## Step 5: Check for errors
+## Step 6: Check for errors
 Use the VSCode HTMLHint extension and validate your code (https://validator.w3.org/#validate_by_upload) to make sure that it is correct.
 
-## Step 4: Submit your work
+## Step 7: Submit your work
 1. Commit your changes.
 2. Push your changes to GitHub. Check out your remote repository in GitHub to make sure that the remote files look the same as your the files in your local repository.
 3. Submit your assignment in Brightspace: You can access the assignment submission tool by clicking on Assignments in the main menu. Click on the "Unit 1 Exercises" assignment and follow the provided instructions.
