@@ -10,7 +10,7 @@ Remember to:
 * Read through the code provided in the example.
 ### Step 1: Choose a webpage
 Browse the internet to find a simple brochure website. A brochure website is a website that includes approx 5 pages (For ex: Homepage, About, Services, Locations and Contact). It's like an online brochure. It explains what the business offers and provides a way to get in touch. A brochure website does not include e-commerce, membership log in, or any other type of advanced functionality. I recommend you find a website whose homepage is no more complex than the homepage of upnitlodge.ca. Don't choose something too complicated.
-### Step 2: Create the webpage structure
+### Step 2: Create the webpage
 * Use GitHub Desktop to clone your remote exercise repository onto your local machine.
 * In VS Code, add a file called index.html to your local repository. 
 * Open index.html and add the HTML skeleton code provided by VSCode.
