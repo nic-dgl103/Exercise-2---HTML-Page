@@ -47,8 +47,8 @@ Code the structural organization of the content. You don't need to include all t
 
 Many more HTML elements exist than what we have learnt so far. Research elements that make sense to use in your webpage. Make sure you use 3 or 4 new elements. 
 
-### Step 5: Format and Add comments 
-* Use the Prettier VSCode extension to format your code.
+### Step 5: Format and add comments 
+* Make sure that you have the Prettier VS Code extension installed. On the index page, right-click > Format document to apply proper formatting. Repeat for the about page and the stylesheet.
 * Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->`
 
 ### Step 6: Check for errors
