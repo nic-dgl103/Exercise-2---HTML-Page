@@ -50,10 +50,10 @@ Many more HTML elements exist than what we have learnt so far. Research elements
 ### Step 5: Add comments 
 Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->`
 
-## Step 6: Check for errors
+### Step 6: Check for errors
 Use the VSCode HTMLHint extension and validate your code (https://validator.w3.org/#validate_by_upload) to make sure that it is correct.
 
-## Step 7: Submit your work
+### Step 7: Submit your work
 1. Commit your changes.
 2. Push your changes to GitHub. Check out your remote repository in GitHub to make sure that the remote files look the same as your the files in your local repository.
 3. Submit your assignment in Brightspace: You can access the assignment submission tool by clicking on Assignments in the main menu. Click on the "Unit 1 Exercises" assignment and follow the provided instructions.
