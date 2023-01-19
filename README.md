@@ -47,8 +47,9 @@ Code the structural organization of the content. You don't need to include all t
 
 Many more HTML elements exist than what we have learnt so far. Research elements that make sense to use in your webpage. Make sure you use 3 or 4 new elements. 
 
-### Step 5: Add comments 
-Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->`
+### Step 5: Format and Add comments 
+* Use the Prettier VSCode extension to format your code.
+* Add a few comments to explain your code, to point out any elements you have used that we haven't learnt about in class, to ask questions, or to highlight anything of interest. For ex: `<!-- I used the mark text element to highlight the word milk -->`
 
 ### Step 6: Check for errors
 Use the VSCode HTMLHint extension and validate your code (https://validator.w3.org/#validate_by_upload) to make sure that it is correct.
