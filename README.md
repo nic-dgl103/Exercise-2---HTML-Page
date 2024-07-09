@@ -17,7 +17,7 @@ Browse the internet to find a simple brochure website. A brochure website is a w
 * In VS Code, add a file called index.html to your local repository. 
 * Open index.html and add the HTML skeleton code provided by VSCode.
 * Change the page title in the head element to something appropriate for the webpage that you chose.
-* Add a comment in the head element that includes the URL of the webpage that you chose. Example: <!-- https://upnitlodge.ca -->
+* Add a comment in the head element that includes the URL of the webpage that you chose. Example: `<!-- https://upnitlodge.ca -->`
 ### Step 4: Add the structural elements
 Code the structural organization of the content. You don't need to include all the structural elements but you should use at least 6 of them.
 1. Body 
