@@ -7,7 +7,6 @@ Choose a simple website and code the HTML for its homepage. You will use semanti
 Remember to:
 * Regularly save your files and check out what your web page looks like in a web browser.
 * Make regular commits.
-* Read through the code provided in the example.
 ### Step 1: Read through the example
 An example of this exercise is provided (see folder called "example-exercise"), the example is the homepage of https://upnitlodge.ca/. Check out the website's homepage in your browser and then read through the HTML in the index.html file in VS Code.
 ### Step 2: Choose a webpage
@@ -58,4 +57,4 @@ Code the structural organization of the content. You don't need to include all t
     * Go to https://validator.w3.org/#validate_by_upload. Choose your *index.html* file in your local repository and click the Check button. If there are no errors then you should see a green message that says “Document checking completed. No errors or warnings to show.” If you get an error message then troubleshoot your work, save and re-check it until you get the green message.
     * **Take a screenshot of your HTML validation results, you will need to submit it in Brightspace.**
 
-You have now completed your exercise but you still need to push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide. YO\ou will need to usbmit the screenshot of your HTML validation results.
+You have now completed your exercise but you still need to push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide. You will need to submit the screenshot of your HTML validation results.
